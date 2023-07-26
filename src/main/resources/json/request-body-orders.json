@@ -1,0 +1,15 @@
+{
+    "costomerId": "8ea44a02-72a7-4ef2-b8b2-125d672f3129",
+    "orderDetailDtoList": [
+        {
+            "product": {
+                "id": "098d4f59-a09c-452b-8d4f-fadbb1f9fc10",
+            }
+        },
+        {
+            "product": {
+                "id": "228f9ffd-d922-43b8-82c7-217dd72c5be2"
+            }
+        }
+    ]
+}
